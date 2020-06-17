@@ -142,7 +142,7 @@ def station_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
-
+# Trip duration stats will display the total time of travel as well as mean travel time
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
 
