@@ -197,6 +197,7 @@ def raw_data(df, mark_place):
 
     
     raw_data_view = input('To view the raw data, Enter y : yes or n : no \n>')
+    print("We are redirecting you to the further details........")
     raw_data_view.lower()
 
     if raw_data_view == 'y':
