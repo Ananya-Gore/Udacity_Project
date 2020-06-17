@@ -6,7 +6,7 @@ from statistics import mode
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
-
+# choice class is defined to include the data from the user in the form of choices to laid him towards required data
 def choice(prompt, choices=('y', 'n')):
     """Return a valid input from the user given an array of possible answers.
     """
