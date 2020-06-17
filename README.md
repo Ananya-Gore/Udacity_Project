@@ -26,8 +26,8 @@ Total travel time,average travel time
 you can also view the raw data of random trip by filtering by month ,week ,destination,start point ,end point
 
 ### Files used
-Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+bikeshare.py code for all  mention above findings
+
+
 
